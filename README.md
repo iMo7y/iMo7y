@@ -9,11 +9,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MoeLink
+ 🔭 I’m currently working on MoeLink
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning Docker, Supabase, AWS**
 
-⚡ Fun fact **Love Fast Cars
+⚡ Fun fact Love Fast Cars
 
  </div>
  
@@ -39,7 +39,7 @@
   <h2>Snake Animation🐍</h2>
 
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
