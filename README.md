@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there My Name Is Mohammed Saadi👋;Hi there My Name Is Mohammed Saadi👋)](https://git.io/typing-svg)
+
 ### Hi there My Name Is Mohammed Saadi👋
 ### Full-Stack Software Developer👨🏻‍💻
 
