@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on MoeLink 
  
- 🌱 I’m currently learning Docker, Supabase, AWS
+ 🌱 I’m currently learning Docker, Supabase, AWS 
 
 ⚡ Fun fact Love Sport Carsm
 
