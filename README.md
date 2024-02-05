@@ -7,9 +7,9 @@
 
 <br/>
 
-<div align="center"> 
+<div align="center">
  
- 🔭 I’m currently working on BrainWave
+ 🔭 I’m currently working on Brain Wave
  
  🌱 I’m currently learning Docker, Supabase, AWS 
 
