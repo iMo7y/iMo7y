@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Brain Wave
+ 🔭 I’m currently working on Br🧠in Wave
  
  🌱 I’m currently learning Docker, Supabase, AWS 
 
